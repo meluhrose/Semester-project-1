@@ -39,6 +39,7 @@ To view the website locally:
 git clone https://github.com/meluhrose/Semester-project-1.git
 ```
 2.Navigate into the project folder
+
 3.Open index.html (or any other HTML file) in your browser.
 
 
