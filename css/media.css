@@ -16,8 +16,9 @@
     }
         
     .event-list {
-        right: -23%
+        right: -23%;
     }
+
     .feature-date {
         top: 6px;
         left: 29px;
@@ -32,16 +33,17 @@
     }
 
     .explore-container img,
-    .explore-container-middle img, .explore-container-last img {
+    .explore-container-middle img,
+    .explore-container-last img {
         display: none;
     }
 
-     .explore-header-text {
+    .explore-header-text {
         left: 16%;
     }
 
-  .aboutus-container img {
-    width: 70%;
+    .aboutus-container img {
+        width: 70%;
     }
 }
 
@@ -64,48 +66,48 @@
 }
 
 @media (max-width: 1289px) {
-.header-text h1,
-.header-container-exhibitions h1{
-    font-size: 67px;
-    white-space: nowrap;
-}
+    .header-text h1,
+    .header-container-exhibitions h1 {
+        font-size: 67px;
+        white-space: nowrap;
+    }
 
-.header-text {
-    top: 29%;
-    font-size: 18px;
-    bottom: 35%;
-}
+    .header-text {
+        top: 29%;
+        font-size: 18px;
+        bottom: 35%;
+    }
 
-.header-cta,
-.aboutus-cta {
-    font-size: 15px;
-    white-space: nowrap;
-}
+    .header-cta,
+    .aboutus-cta {
+        font-size: 15px;
+        white-space: nowrap;
+    }
 
-.featured-event {
-    left: 39%;
-}
+    .featured-event {
+        left: 39%;
+    }
 
-.featured-event img {
-    width: 60%;
-}
+    .featured-event img {
+        width: 60%;
+    }
 
-.feature-text {
-    left: 30%;
-  }
+    .feature-text {
+        left: 30%;
+    }
 
-.cta-feature {
-    left: 29%;
-    font-size: 1rem;
-  }
+    .cta-feature {
+        left: 29%;
+        font-size: 1rem;
+    }
 
-.visitus-container-3 {
-    flex-direction: column;
-  }
+    .visitus-container-3 {
+        flex-direction: column;
+    }
 
-  .explore-header-text {
-    left: 23%;
-    white-space: nowrap;
+    .explore-header-text {
+        left: 23%;
+        white-space: nowrap;
     }
 }
 
@@ -160,9 +162,9 @@
         width: 85%;
     }
 
-    .feature-text{
+    .feature-text {
         font-size: 18px;
-        left: 45%
+        left: 45%;
     }
 
     .feature-title {
@@ -228,7 +230,7 @@
         right: -14%;
     }
 
-  .exhibition-container {
+    .exhibition-container {
         gap: 20px;
         margin: -15px;
     }
@@ -247,28 +249,28 @@
         right: -16%;
     }
 
-  .event-text {
-        padding:25px;
+    .event-text {
+        padding: 25px;
     }
 
-  .event-text h2 {
+    .event-text h2 {
         font-size: 28px;
     }
 
-  .event-date-time {
+    .event-date-time {
         font-size: 23px;
     }
 
-.box-content {
+    .box-content {
         width: 89%;
         padding: 0px;
     }
 
-.getinvolved-header-text {
+    .getinvolved-header-text {
         padding: 20px;
     }
 
-.explore-header-text h1{
+    .explore-header-text h1 {
         left: 19%;
         white-space: nowrap;
         font-size: 70px;
@@ -297,6 +299,7 @@
         font-size: 12px;
         top: 57%;
     }
+
     .featured-event {
         left: 10%;
     }
@@ -312,8 +315,9 @@
 
     .event {
         width: 300px;
-        padding: 0px
+        padding: 0px;
     }
+
     .event-list {
         right: -5%;
     }
@@ -325,7 +329,7 @@
     .header-container-exhibitions h1,
     .explore-header-text h1,
     .visitus-header h1,
-    .getinvolved-header h1{
+    .getinvolved-header h1 {
         font-size: 48px;
         bottom: 9%;
     }
@@ -341,11 +345,12 @@
 }
 
 @media (max-width: 500px) {
-    .header-container-exhibitions h1{
+    .header-container-exhibitions h1 {
         bottom: -9%;
     }
+
     .explore-header-text h1,
-    .aboutus-container h1{
+    .aboutus-container h1 {
         font-size: 38px;
     }
 }

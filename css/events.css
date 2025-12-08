@@ -45,6 +45,14 @@
     align-items: center;
 }
 
-.event-1 { background-color: #2DE1EC;}
-.event-2 {background-color: #08FF14;}
-.event-3 {background-color: #FF6608;}
+.event-1 {
+    background-color: #2DE1EC;
+}
+
+.event-2 {
+    background-color: #08FF14;
+}
+
+.event-3 {
+    background-color: #FF6608;
+}
