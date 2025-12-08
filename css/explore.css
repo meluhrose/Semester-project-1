@@ -1,4 +1,4 @@
-.explore-header-container{
+.explore-header-container {
     position: relative;
 }
 
@@ -40,8 +40,8 @@
 .explore-container img,
 .explore-container-middle img,
 .explore-container-last img {
-height: auto;
-padding: 18px;
+    height: auto;
+    padding: 18px;
 }
 
 .explore-container,
@@ -53,9 +53,17 @@ padding: 18px;
     margin: 30px;
 }
 
-.explore-container {background-color: #289CB9;}
-.explore-container-middle {background-color: #08FF14;}
-.explore-container-last {background-color: #94FACE;}
+.explore-container {
+    background-color: #289CB9;
+}
+
+.explore-container-middle {
+    background-color: #08FF14;
+}
+
+.explore-container-last {
+    background-color: #94FACE;
+}
 
 .explore-text {
     display: flex;

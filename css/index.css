@@ -110,12 +110,29 @@
     background-color: inherit;
 }
 
-.date-orange { background-color: #FF6608; }
-.date-pink { background-color: #E31E9E; }
-.date-cyan { background-color: #2DE1EC; }
-.date-lightblue { background-color: #94FACE; }
-.date-blue { background-color: #289CB9; }
-.date-green { background-color: #08FF14; }
+.date-orange {
+    background-color: #FF6608;
+}
+
+.date-pink {
+    background-color: #E31E9E;
+}
+
+.date-cyan {
+    background-color: #2DE1EC;
+}
+
+.date-lightblue {
+    background-color: #94FACE;
+}
+
+.date-blue {
+    background-color: #289CB9;
+}
+
+.date-green {
+    background-color: #08FF14;
+}
 
 .event-time {
     font-weight: bold;
