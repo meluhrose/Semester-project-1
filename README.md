@@ -29,7 +29,9 @@ No frameworks or JavaScript — focusing strictly on front-end fundamental
 ## 🛠️ Built With
 
 - HTML  
-- CSS  
+- CSS
+- Figma
+- VSCODE
 
 ## 🚀 Getting Started / Running Locally
 
